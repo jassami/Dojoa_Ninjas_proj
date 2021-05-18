@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper{
+    width: 1000px;
+    background-color: aliceblue;
+    margin: auto;
+}
+#left_form, #right_form{
+    display: inline-block;
+    width: 440px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}
+form{
+    margin-left: 150px;
+}
+p{
+    padding: 10px;
+}
+.bottom{
+    width: 800px;
+    margin: auto;
+    border-top: 2px solid black;
+}
+#dojo_name{
+    margin-left: 300px;
+    display: inline-block;
+}
+#delete{
+    display: inline-block;
+}
+#ninja_name{
+    margin-left: 350px;
+}
+.button{
+    width: 60px;
+    height: 30px;
+    box-shadow: black 2px 2px;
+    margin: 20px;
+}

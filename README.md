@@ -1,0 +1,2 @@
+# Dojoa_Ninjas_proj
+A djanjo application that allows creating new dojos and ninjas, displays a list of all the dojos and their associated ninjas, allows deleting a dajo and all associated ninjas, and displays a count of ninjas next to each dojo name.
